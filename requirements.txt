@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+websockets
+pypdf
+langchain_text_splitters
+python-dotenv
+asyncio
+websockets

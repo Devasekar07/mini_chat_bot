@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+*.env
+
+# Chroma DB files
+chromadb/
+*.index
+
+# Large output files
+*.json
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
