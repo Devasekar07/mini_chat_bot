@@ -9,6 +9,8 @@ A lightweight Retrieval-Augmented Generation (RAG) chatbot using:
    * SentenceTransformer for embeddings
 
    * WebSocket server + client
+     
+   * [imp] Memory Buffer 
 
 Features
 
